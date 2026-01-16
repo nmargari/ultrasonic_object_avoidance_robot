@@ -1,2 +1,2 @@
-# ultrasonic_object_avoidance_robot
+# Ultrasonic Object Avoidance Robot
 An arduino robot that avoids objects using an ultrasonic sensor.
